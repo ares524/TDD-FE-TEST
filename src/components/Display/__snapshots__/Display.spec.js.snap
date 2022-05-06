@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Display should render correctly 1`] = `
+<div
+  className="display-container"
+>
+  <p
+    className="display-value"
+  >
+    sum: 
+    a display value
+  </p>
+  <p
+    className="display-value"
+  >
+    average: 
+    a display value
+  </p>
+  <p
+    className="display-value"
+  >
+    deviation: 
+    a display value
+  </p>
+</div>
+`;

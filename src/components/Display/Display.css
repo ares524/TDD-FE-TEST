@@ -1,0 +1,12 @@
+.display-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0 4%;
+}
+
+.display-value {
+  font-family: var(--main-font);
+  margin-left: auto;
+  overflow: hidden;
+}

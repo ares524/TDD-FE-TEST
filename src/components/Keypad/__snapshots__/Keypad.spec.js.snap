@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Keypad should render correctly 1`] = `
+<div
+  className="keypad-container"
+>
+  <input
+    autoFocus={true}
+    className="argument-input"
+    onChange={[Function]}
+    placeholder="1,3,5"
+    value="1,3,5"
+  />
+  <button
+    className="submit-button"
+    onClick={[MockFunction]}
+  >
+    submit
+  </button>
+</div>
+`;

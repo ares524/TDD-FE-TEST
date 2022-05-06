@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator should render correctly 1`] = `
+<div
+  className="calculator-container"
+>
+  <Display
+    average="0"
+    deviation="0"
+    sum="0"
+  />
+  <Keypad
+    argument=""
+    handleSubmit={[Function]}
+    setArguments={[Function]}
+  />
+</div>
+`;

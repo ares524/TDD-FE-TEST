@@ -1,0 +1,11 @@
+:root {
+  /* font */
+  --main-font: 'Orbitron', sans-serif;
+}
+
+body,
+div,
+p {
+  margin: 0;
+  padding: 0;
+}
